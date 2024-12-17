@@ -1,3 +1,3 @@
 # Softnio Front-End Engineer Assignment
 
-![](./public/screencapture.png)
+![](./react/public/screencapture.png)
